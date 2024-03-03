@@ -1,0 +1,17 @@
+li {
+  list-style: none;
+}
+
+.gallery {
+  display: flex;
+  flex-wrap: wrap;
+  background-color: #fff;
+  width: 1400px;
+  gap: 30px;
+  margin: 0 auto;
+}
+
+.gallery-image {
+  width: 360px;
+  height: 200px;
+}
